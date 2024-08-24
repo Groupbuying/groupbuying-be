@@ -1,0 +1,5 @@
+asgiref==3.8.1
+Cython==0.29.37
+Django==5.0.6
+django-cors-headers==4.4.0
+sqlparse==0.5.0
